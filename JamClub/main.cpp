@@ -17,14 +17,14 @@ int main()
 
 	cout << "Which Package do you have? A, B or C." << endl;
 	cin >> package;
-	if (package != 'A') {
+	/*if (package != 'A') {
 		if (package != 'B') {
 			if (package != 'C') {
 				cout << "You've entered an invalid package. Enter A, B or C" << endl;
 				cin >> package;
 			}
 		}
-	}		
+	}	*/	
 
 	int quantityJams;
 	cout << "How many jams did you purchase this month?" << endl;
