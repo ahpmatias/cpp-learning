@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ahenr\\source\\repos\\OddOrEven\\",
+  "WorkspaceRootPath": "D:\\Github Repos\\cpp-learning\\OddOrEven\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB8A42C5-E313-46F4-9245-5B97994A21BD}|OddOrEven.vcxproj|C:\\Users\\ahenr\\source\\repos\\OddOrEven\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EB8A42C5-E313-46F4-9245-5B97994A21BD}|OddOrEven.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github Repos\\cpp-learning\\OddOrEven\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\ahenr\\source\\repos\\OddOrEven\\main.cpp",
+              "DocumentMoniker": "D:\\Github Repos\\cpp-learning\\OddOrEven\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\ahenr\\source\\repos\\OddOrEven\\main.cpp",
+              "ToolTip": "D:\\Github Repos\\cpp-learning\\OddOrEven\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-14T20:33:00.622Z",
               "EditorCaption": ""
