@@ -20,3 +20,5 @@
 /ScopeChallenge/.vs/ScopeChallenge/FileContentIndex
 /ScopeChallenge/.vs/ScopeChallenge/v17/Browse.VC.opendb
 /ScopeFun/.vs/ScopeFun/FileContentIndex
+*.vsidx
+*.opendb
