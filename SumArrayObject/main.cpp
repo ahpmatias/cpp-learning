@@ -5,6 +5,7 @@ using namespace std;
 
 int sumArray(int array[]);
 int sumArray2(array<int, 10> someArray);
+void sumArray(array<int, 10> someArray, int& theSum);
 
 int main()
 {
@@ -24,7 +25,16 @@ int main()
 
 	cout << "The sum is " << sumResult2 << endl;
 
+	cout << endl;
+	//And third way passing a parameter by reference
+	array<int, 10> myArray3{ 0,1,2,3,4,5,6,7,8,9 };
+	int resultRef;
+	sumArray(myArray3, resultRef);
+	cout << "Result by ref is " << resultRef << endl;
+
 	return 0;
+
+	
 }
 
 int sumArray(int someArray[])
@@ -46,4 +56,13 @@ int sumArray2(array<int, 10> someArray)
 		sum += num;
 	}
 	return sum;
+}
+
+void sumArray(array<int, 10> someArray, int& theSum)
+{
+	theSum = 0;
+	for (int num : someArray)
+	{
+		theSum += num;
+	}
 }
