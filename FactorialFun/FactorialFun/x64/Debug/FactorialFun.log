@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Github Repos\cpp-learning\FactorialFun\main.cpp(21,1): warning C4715: 'factorial': not all control paths return a value
+  FactorialFun.vcxproj -> D:\Github Repos\cpp-learning\FactorialFun\x64\Debug\FactorialFun.exe

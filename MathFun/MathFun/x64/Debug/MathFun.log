@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Github Repos\cpp-learning\MathFun\main.cpp(8,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Github Repos\cpp-learning\MathFun\main.cpp(9,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Github Repos\cpp-learning\MathFun\main.cpp(10,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Github Repos\cpp-learning\MathFun\main.cpp(11,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MathFun.vcxproj -> D:\Github Repos\cpp-learning\MathFun\x64\Debug\MathFun.exe
