@@ -10,6 +10,7 @@ const int COLS = 3;
 void printBoard(string array[ROWS][COLS]);
 void generateBoard(string array[ROWS][COLS]);
 void getUserInput(string array[ROWS][COLS], string input);
+void runGame(string array[ROWS][COLS], bool gameStatus);
 
 int main()
 {
@@ -17,9 +18,11 @@ int main()
 
 	generateBoard(ticTacToeArray);
 	printBoard(ticTacToeArray);
+	
+	bool gameRunning = true;
 
-	getUserInput(ticTacToeArray, "X");
-	printBoard(ticTacToeArray);
+	runGame(ticTacToeArray, gameRunning);
+
 	return 0;
 }
 
@@ -54,4 +57,24 @@ void getUserInput(string array[ROWS][COLS], string player)
 	int col = input[2] - '1';
 
 	array[row][col] = " " + player + " ";
+}
+
+void runGame(string array[ROWS][COLS], bool gameStatus)
+{
+	int counter = 0;
+	while (gameStatus == true)
+	{
+		if (counter % 2 == 0)
+		{
+			getUserInput(array, "X");
+			printBoard(array);
+			counter++;
+		}
+		else
+		{
+			getUserInput(array, "O");
+			printBoard(array);
+			counter++;
+		}
+	}
 }
