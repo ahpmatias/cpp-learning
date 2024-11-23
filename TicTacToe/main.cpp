@@ -11,6 +11,7 @@ void printBoard(string array[ROWS][COLS]);
 void generateBoard(string array[ROWS][COLS]);
 void getUserInput(string array[ROWS][COLS], string input);
 void runGame(string array[ROWS][COLS], bool gameStatus);
+bool checkFullBoard(string array[ROWS][COLS], int turns);
 
 int main()
 {
@@ -64,17 +65,38 @@ void runGame(string array[ROWS][COLS], bool gameStatus)
 	int counter = 0;
 	while (gameStatus == true)
 	{
-		if (counter % 2 == 0)
+		if (checkFullBoard(array, counter))
 		{
-			getUserInput(array, "X");
-			printBoard(array);
-			counter++;
+			gameStatus = false;
 		}
 		else
 		{
-			getUserInput(array, "O");
-			printBoard(array);
-			counter++;
-		}
+			if (counter % 2 == 0)
+			{
+				getUserInput(array, "X");
+				printBoard(array);
+				counter++;
+			}
+			else
+			{
+				getUserInput(array, "O");
+				printBoard(array);
+				counter++;
+			}
+		}		
+	}
+}
+
+bool checkFullBoard(string array[ROWS][COLS], int turns)
+{
+	if (turns == 9)
+	{
+		cout << endl;
+		cout << "The board is full, no winners! Thanks for playing." << endl;
+		return true;
+	}
+	else
+	{
+		return false;
 	}
 }
