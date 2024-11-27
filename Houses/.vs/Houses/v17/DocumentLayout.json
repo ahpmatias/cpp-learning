@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{6C23D900-19EE-4D9B-BB71-59ABD6C52708}|Houses.vcxproj|D:\\Github Repos\\cpp-learning\\Houses\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6C23D900-19EE-4D9B-BB71-59ABD6C52708}|Houses.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C23D900-19EE-4D9B-BB71-59ABD6C52708}|Houses.vcxproj|D:\\Github Repos\\cpp-learning\\Houses\\House.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C23D900-19EE-4D9B-BB71-59ABD6C52708}|Houses.vcxproj|solutionrelative:House.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C23D900-19EE-4D9B-BB71-59ABD6C52708}|Houses.vcxproj|D:\\Github Repos\\cpp-learning\\Houses\\House.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C23D900-19EE-4D9B-BB71-59ABD6C52708}|Houses.vcxproj|solutionrelative:House.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "House.h",
+              "DocumentMoniker": "D:\\Github Repos\\cpp-learning\\Houses\\House.h",
+              "RelativeDocumentMoniker": "House.h",
+              "ToolTip": "D:\\Github Repos\\cpp-learning\\Houses\\House.h",
+              "RelativeToolTip": "House.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T22:17:07.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "House.cpp",
+              "DocumentMoniker": "D:\\Github Repos\\cpp-learning\\Houses\\House.cpp",
+              "RelativeDocumentMoniker": "House.cpp",
+              "ToolTip": "D:\\Github Repos\\cpp-learning\\Houses\\House.cpp",
+              "RelativeToolTip": "House.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T22:16:22.942Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Github Repos\\cpp-learning\\Houses\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\Github Repos\\cpp-learning\\Houses\\main.cpp*",
-              "RelativeToolTip": "main.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAA0AAAAAAAAAA==",
+              "ToolTip": "D:\\Github Repos\\cpp-learning\\Houses\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-25T23:13:04.88Z",
               "EditorCaption": ""
