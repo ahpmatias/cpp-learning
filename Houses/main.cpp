@@ -8,6 +8,11 @@ int main()
 {
 	House myHouse;
 	House yourHouse;
+	House anotherHouse(3, 7, "green");
+
+	anotherHouse.print();
+
+	myHouse.print();
 
 	myHouse.setNumStories(2);
 	myHouse.setNumWindows(6);
