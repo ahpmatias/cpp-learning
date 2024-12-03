@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Github Repos\\cpp-learning\\RectangleFun\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D40A8D91-24EB-4F49-9732-B28F1B97DCDD}|RectangleFun.vcxproj|D:\\Github Repos\\cpp-learning\\RectangleFun\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D40A8D91-24EB-4F49-9732-B28F1B97DCDD}|RectangleFun.vcxproj|solutionrelative:Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D40A8D91-24EB-4F49-9732-B28F1B97DCDD}|RectangleFun.vcxproj|D:\\Github Repos\\cpp-learning\\RectangleFun\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D40A8D91-24EB-4F49-9732-B28F1B97DCDD}|RectangleFun.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D40A8D91-24EB-4F49-9732-B28F1B97DCDD}|RectangleFun.vcxproj|D:\\Github Repos\\cpp-learning\\RectangleFun\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D40A8D91-24EB-4F49-9732-B28F1B97DCDD}|RectangleFun.vcxproj|solutionrelative:Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D40A8D91-24EB-4F49-9732-B28F1B97DCDD}|RectangleFun.vcxproj|D:\\Github Repos\\cpp-learning\\RectangleFun\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D40A8D91-24EB-4F49-9732-B28F1B97DCDD}|RectangleFun.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D40A8D91-24EB-4F49-9732-B28F1B97DCDD}|RectangleFun.vcxproj|D:\\Github Repos\\cpp-learning\\RectangleFun\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D40A8D91-24EB-4F49-9732-B28F1B97DCDD}|RectangleFun.vcxproj|solutionrelative:Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,19 +27,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Github Repos\\cpp-learning\\RectangleFun\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\Github Repos\\cpp-learning\\RectangleFun\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-29T13:18:27.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Rectangle.h",
               "DocumentMoniker": "D:\\Github Repos\\cpp-learning\\RectangleFun\\Rectangle.h",
               "RelativeDocumentMoniker": "Rectangle.h",
@@ -52,13 +39,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Github Repos\\cpp-learning\\RectangleFun\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Github Repos\\cpp-learning\\RectangleFun\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T13:18:27.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Rectangle.cpp",
               "DocumentMoniker": "D:\\Github Repos\\cpp-learning\\RectangleFun\\Rectangle.cpp",
               "RelativeDocumentMoniker": "Rectangle.cpp",
               "ToolTip": "D:\\Github Repos\\cpp-learning\\RectangleFun\\Rectangle.cpp",
               "RelativeToolTip": "Rectangle.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-29T13:19:09.248Z",
               "EditorCaption": ""

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Github Repos\\cpp-learning\\BankAccountProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47BE5B77-C141-479F-BDBF-B60BDC883D94}|BankAccountProject.vcxproj|D:\\Github Repos\\cpp-learning\\BankAccountProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47BE5B77-C141-479F-BDBF-B60BDC883D94}|BankAccountProject.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{47BE5B77-C141-479F-BDBF-B60BDC883D94}|BankAccountProject.vcxproj|D:\\Github Repos\\cpp-learning\\BankAccountProject\\BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47BE5B77-C141-479F-BDBF-B60BDC883D94}|BankAccountProject.vcxproj|solutionrelative:BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47BE5B77-C141-479F-BDBF-B60BDC883D94}|BankAccountProject.vcxproj|D:\\Github Repos\\cpp-learning\\BankAccountProject\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{47BE5B77-C141-479F-BDBF-B60BDC883D94}|BankAccountProject.vcxproj|solutionrelative:BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47BE5B77-C141-479F-BDBF-B60BDC883D94}|BankAccountProject.vcxproj|D:\\Github Repos\\cpp-learning\\BankAccountProject\\BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47BE5B77-C141-479F-BDBF-B60BDC883D94}|BankAccountProject.vcxproj|solutionrelative:BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{47BE5B77-C141-479F-BDBF-B60BDC883D94}|BankAccountProject.vcxproj|D:\\Github Repos\\cpp-learning\\BankAccountProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47BE5B77-C141-479F-BDBF-B60BDC883D94}|BankAccountProject.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cpp",
+              "DocumentMoniker": "D:\\Github Repos\\cpp-learning\\BankAccountProject\\BankAccount.cpp",
+              "RelativeDocumentMoniker": "BankAccount.cpp",
+              "ToolTip": "D:\\Github Repos\\cpp-learning\\BankAccountProject\\BankAccount.cpp",
+              "RelativeToolTip": "BankAccount.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T20:43:26.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "BankAccount.h",
               "DocumentMoniker": "D:\\Github Repos\\cpp-learning\\BankAccountProject\\BankAccount.h",
               "RelativeDocumentMoniker": "BankAccount.h",
@@ -39,29 +52,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BankAccount.cpp",
-              "DocumentMoniker": "D:\\Github Repos\\cpp-learning\\BankAccountProject\\BankAccount.cpp",
-              "RelativeDocumentMoniker": "BankAccount.cpp",
-              "ToolTip": "D:\\Github Repos\\cpp-learning\\BankAccountProject\\BankAccount.cpp",
-              "RelativeToolTip": "BankAccount.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAQwCkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-02T20:43:26.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Github Repos\\cpp-learning\\BankAccountProject\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\Github Repos\\cpp-learning\\BankAccountProject\\main.cpp*",
-              "RelativeToolTip": "main.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "ToolTip": "D:\\Github Repos\\cpp-learning\\BankAccountProject\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-02T20:43:18.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T20:43:18.428Z"
             },
             {
               "$type": "Bookmark",
