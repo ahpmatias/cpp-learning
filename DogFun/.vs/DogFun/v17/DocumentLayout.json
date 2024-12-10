@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Github Repos\\cpp-learning\\DogFun\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEF7FD29-BA73-4B6A-93E3-9F93051755A4}|DogFun.vcxproj|D:\\Github Repos\\cpp-learning\\DogFun\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CEF7FD29-BA73-4B6A-93E3-9F93051755A4}|DogFun.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CEF7FD29-BA73-4B6A-93E3-9F93051755A4}|DogFun.vcxproj|D:\\Github Repos\\cpp-learning\\DogFun\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEF7FD29-BA73-4B6A-93E3-9F93051755A4}|DogFun.vcxproj|solutionrelative:Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEF7FD29-BA73-4B6A-93E3-9F93051755A4}|DogFun.vcxproj|D:\\Github Repos\\cpp-learning\\DogFun\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEF7FD29-BA73-4B6A-93E3-9F93051755A4}|DogFun.vcxproj|solutionrelative:Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF7FD29-BA73-4B6A-93E3-9F93051755A4}|DogFun.vcxproj|D:\\Github Repos\\cpp-learning\\DogFun\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEF7FD29-BA73-4B6A-93E3-9F93051755A4}|DogFun.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Dog.h",
               "DocumentMoniker": "D:\\Github Repos\\cpp-learning\\DogFun\\Dog.h",
               "RelativeDocumentMoniker": "Dog.h",
@@ -35,30 +35,32 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-05T11:04:02.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dog.cpp",
-              "DocumentMoniker": "D:\\Github Repos\\cpp-learning\\DogFun\\Dog.cpp",
-              "RelativeDocumentMoniker": "Dog.cpp",
-              "ToolTip": "D:\\Github Repos\\cpp-learning\\DogFun\\Dog.cpp",
-              "RelativeToolTip": "Dog.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-05T11:03:55.413Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dog.cpp",
+              "DocumentMoniker": "D:\\Github Repos\\cpp-learning\\DogFun\\Dog.cpp",
+              "RelativeDocumentMoniker": "Dog.cpp",
+              "ToolTip": "D:\\Github Repos\\cpp-learning\\DogFun\\Dog.cpp",
+              "RelativeToolTip": "Dog.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T11:03:55.413Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Github Repos\\cpp-learning\\DogFun\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\Github Repos\\cpp-learning\\DogFun\\main.cpp*",
-              "RelativeToolTip": "main.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "ToolTip": "D:\\Github Repos\\cpp-learning\\DogFun\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-05T11:03:51.751Z",
               "EditorCaption": ""

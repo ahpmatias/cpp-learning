@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Github Repos\cpp-learning\RethrowFun1\main.cpp(63,33): warning C4101: 'err': unreferenced local variable
+D:\Github Repos\cpp-learning\RethrowFun1\main.cpp(68,29): warning C4101: 'err': unreferenced local variable
+  RethrowFun1.vcxproj -> D:\Github Repos\cpp-learning\RethrowFun1\x64\Debug\RethrowFun1.exe
