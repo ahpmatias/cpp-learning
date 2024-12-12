@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Github Repos\cpp-learning\GradeProject\main.cpp(56,1): warning C4715: 'getLetterGrade': not all control paths return a value
+  GradeProject.vcxproj -> D:\Github Repos\cpp-learning\GradeProject\x64\Debug\GradeProject.exe
