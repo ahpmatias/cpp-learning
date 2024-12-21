@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Github Repos\cpp-learning\SpaceshipProject\main.cpp(37,1): warning C4715: 'warpTest': not all control paths return a value
+  SpaceshipProject.vcxproj -> D:\Github Repos\cpp-learning\SpaceshipProject\x64\Debug\SpaceshipProject.exe
